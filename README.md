@@ -1,4 +1,4 @@
-# About
+# Learnings from the course
 
 1. Using text analytics and also scraping information using libraries like BeautifulSoup.
 
